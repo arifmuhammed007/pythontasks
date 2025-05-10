@@ -1,0 +1,14 @@
+Line 1: Python is great.
+Line 2: It is used in web development.
+Line 3: It is used in data science.
+Line 4: It is easy to learn.
+Line 5: Python supports file handling.
+
+ line 4: this line was added by python
+ line 4: this line was added by python
+ line 4: this line was added by python
+ line 4: this line was added by python
+ line 4: this line was added by python
+ line 4: this line was added by python
+ line 4: this line was added by python
+ line 4: this line was added by python
